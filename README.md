@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mouraamirah
-- 👀 I’m interested in analytics data, data visualization, scrum and movie
-- 🌱 I’m currently learning python with jupyter notebook, google clouds, tableau, and SPSS
+- 👀 I’m interested in SAP, ABAP, data visualization, and movie
+- 🌱 I’m currently learning BTP, SAP Clouds, and SAP Fiori
 - 💞️ I’m looking to collaborate on a project that require data
 - 📫 How to reach me: mouraamirah@gmail.com / https://www.linkedin.com/in/mouraamirah/
